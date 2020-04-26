@@ -6,3 +6,5 @@ Local Weather Forecast made by using:
 - Vanilla JavaScript
 - CSS3
 - HTML5
+
+It is not done yet.. 😢
